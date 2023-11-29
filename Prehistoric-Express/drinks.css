@@ -1,3 +1,18 @@
 .pagewrapper {
     background-color: #C29B64;
 }
+body{
+    background-color: #C29B64;
+}
+
+.container{
+    flex-wrap: wrap;
+}
+
+.flex {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+
+
