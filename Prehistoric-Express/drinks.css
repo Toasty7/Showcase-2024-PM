@@ -1,11 +1,12 @@
 .pagewrapper {
     background-color: #C29B64;
 }
-body{
+
+body {
     background-color: #C29B64;
 }
 
-.container{
+.container {
     flex-wrap: wrap;
 }
 
@@ -15,4 +16,19 @@ body{
 }
 
 
+.p3 {
+    font-family: Arial, Helvetica, sans-serif
+}
 
+nav section ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+    font-size: 3vh;
+}
+
+a {
+    text-decoration: none;
+
+}

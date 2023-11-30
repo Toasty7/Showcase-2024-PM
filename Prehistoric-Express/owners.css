@@ -1,6 +1,39 @@
-h1 {
-    color: ;
-}
-.pagewrapper {
+.pagewrapper,
+body {
     background-color: #C29B64;
+}
+
+.p3 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 3%;
+}
+
+.better {
+    display: flex;
+    flex-direction: row;
+}
+
+img {
+    margin: 3%;
+}
+
+h1 {
+    font-size: 3vh;
+}
+
+nav section ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+    font-size: 3vh;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.p3 {
+    font-family: Arial, Helvetica, sans-serif
 }

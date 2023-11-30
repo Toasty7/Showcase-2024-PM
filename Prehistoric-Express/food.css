@@ -2,14 +2,29 @@
     background-color: #C29B64;
 }
 
-.flex{
-    display: flex; 
+.flex {
+    display: flex;
     flex-direction: row;
 }
 
+.p3 {
+    font-family: Arial, Helvetica, sans-serif
+}
 
 
-
-body{
+body {
     background-color: #C29B64;
+}
+
+nav section ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+    font-size: 3vh;
+}
+
+a {
+    text-decoration: none;
+
 }
