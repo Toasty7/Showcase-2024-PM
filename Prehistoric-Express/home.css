@@ -15,8 +15,8 @@ section.HELP1 {
 }
 
 img.HELP2 {
-    width: 166px;
-    height: 210px;
+    width: 199px;
+    height: 190px;
     flex-shrink: 0;
 }
 
@@ -43,4 +43,8 @@ nav section ul {
 a {
     text-decoration: none;
 
+}
+
+h1{
+    font-size: 3vh;
 }
