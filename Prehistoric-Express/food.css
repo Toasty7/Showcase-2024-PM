@@ -1,5 +1,5 @@
 .pagewrapper {
-    background-color: #C29B64;
+    background-color: #7DB8C8;
 }
 
 .flex {
@@ -14,7 +14,7 @@
 
 
 body {
-    background-color: #C29B64;
+    background-color: #7DB8C8;
 }
 
 nav section ul {
@@ -37,6 +37,7 @@ a {
     transition: 0.3s;
     width: 30%;
     margin: 1.6%;
+    background-color: #C4C896;
   }
   
   .card:hover {

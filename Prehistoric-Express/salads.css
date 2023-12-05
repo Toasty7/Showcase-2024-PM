@@ -1,5 +1,5 @@
 .pagewrapper {
-    background-color: #C29B64;
+    background-color: #7DB8C8;
 }
 
 .p3 {
@@ -20,7 +20,7 @@ a {
 }
 .pagewrapper,
 body {
-    background-color: #C29B64;
+    background-color:#7DB8C8;
 }
 
 
@@ -29,7 +29,7 @@ body {
     transition: 0.3s;
     width: 30%;
     margin: 1.6%;
-    flex: 0 50%;
+    background-color: #C4C896;
   }
 
   or flex: 0 0 50%;
