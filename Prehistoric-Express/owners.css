@@ -1,6 +1,6 @@
 .pagewrapper,
 body {
-    background-color: #7DB8C8;
+    background-color: #5c443a;
 }
 
 .p3 {
@@ -37,4 +37,37 @@ a {
 .p3 {
     font-family: Arial, Helvetica, sans-serif
 }
-@media only screen and (min-width:640px)
+
+.josiah{
+    width: 316px;
+    height: 324px;
+    flex-shrink: 0;
+    border-radius: 324px;
+    opacity: 0.9;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    object-fit: cover;
+}
+.samuel{
+    width: 316px;
+    height: 324px;
+    flex-shrink: 0;
+    border-radius: 324px;
+    opacity: 0.9;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    object-fit: cover;
+}
+.tero{
+    width: 316px;
+    height: 324px;
+    flex-shrink: 0;
+    border-radius: 324px;
+    opacity: 0.9;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    object-fit: cover;
+}
+
+p{
+    font-size: 25px;
+}
+
+/* @media only screen and (min-width:640px) */
